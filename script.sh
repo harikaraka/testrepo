@@ -4,6 +4,6 @@ uname -a
 ifconfig -a
 free -m 
 df -h
-export -a
+showmount -a
 lsblk
 
